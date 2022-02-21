@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe88e17b-60b5-40c3-a0ff-9482e6658b80</testCaseGuid>
+   <variable>
+      <defaultValue>'udin'</defaultValue>
+      <description></description>
+      <id>af755131-8946-4220-b541-703fd53abc51</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'alaudin23@gmail.com'</defaultValue>
+      <description></description>
+      <id>86c0868b-6769-4432-8ad4-b79a755b13cb</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'male'</defaultValue>
+      <description></description>
+      <id>0791123a-5e70-4674-adc8-7cdb46e2def0</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'aaa'</defaultValue>
+      <description></description>
+      <id>3dbabe0a-aba8-41d7-ac43-6d1ff457a6da</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7478215-908e-4091-98e6-93d43706aab1</testCaseGuid>
+   <variable>
+      <defaultValue>'udin'</defaultValue>
+      <description></description>
+      <id>07ebad12-74b6-4b72-9545-c007906428f9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'udin23@gmail.com'</defaultValue>
+      <description></description>
+      <id>f2614057-bf66-4b8a-8f28-41577a06f5c5</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'male'</defaultValue>
+      <description></description>
+      <id>b07412d6-0d73-48c8-bf44-0f5b7f5d5464</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'active'</defaultValue>
+      <description></description>
+      <id>3114bc53-7469-49cb-8eda-4f3bb317083c</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

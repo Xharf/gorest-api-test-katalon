@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRUD Post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5b944b0-8bd2-4780-956f-f2a97521ba47</testCaseGuid>
+   <variable>
+      <defaultValue>'Lorem ipsum'</defaultValue>
+      <description></description>
+      <id>c9cf9f24-b48c-4c28-b872-19e0a5b6b9a4</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini body'</defaultValue>
+      <description></description>
+      <id>8bb78169-d471-40e3-b9b4-7e92380d0b5a</id>
+      <masked>false</masked>
+      <name>body</name>
+   </variable>
+   <variable>
+      <defaultValue>'4175'</defaultValue>
+      <description></description>
+      <id>a3d366a1-d7f3-468f-82f0-8210143e452a</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>

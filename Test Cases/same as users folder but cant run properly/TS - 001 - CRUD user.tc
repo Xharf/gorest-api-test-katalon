@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS - 001 - CRUD user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9894bb78-be10-4832-9222-06c48a27b88f</testCaseGuid>
+   <variable>
+      <defaultValue>'udin'</defaultValue>
+      <description></description>
+      <id>9ecde9ab-c473-4b6d-b1bd-4881be355ff0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'shazi@gmail.com'</defaultValue>
+      <description></description>
+      <id>5f6a60fc-1ebf-4dbc-b1e5-f15de6ba20b5</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'male'</defaultValue>
+      <description></description>
+      <id>9ccfcdee-c5b6-440e-a0a1-418a5d391e8a</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'activated'</defaultValue>
+      <description></description>
+      <id>b2ecc817-b8a7-4eaf-ab7e-2923f4ab52cf</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get User By Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b0f2290-69a7-484a-aa6e-c26ff3e0c3a5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0a2d29e-1dd0-4b3a-bbbe-e7357a65341b</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99c0037d-8caf-4132-9130-788fd89f636c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40c9922c-f017-4784-98df-00f0eb583120</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d84b8d57-2151-4ac9-b9be-41010c0b7756</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>
